@@ -1,0 +1,27 @@
+section{
+    padding-top: 4rem;
+    padding-left: 4rem;
+    padding-right: 1rem;
+
+}
+.remote{
+    margin-top: 3rem;
+}
+button{
+    border: none;
+    background-color: transparent;
+    padding-top: 4px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 4px;
+}
+.register{
+    border: 1px solid grey;
+    border-radius: 6px;
+}
+.learn{
+    background-color: black;
+    color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+}
